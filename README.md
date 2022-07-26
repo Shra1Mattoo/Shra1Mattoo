@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shra1Mattoo
 - 👀 I’m interested in Development 
-- 🌱 Learn code and implement..
+- 🌱 Learn, code and implement..
 - 💞️ React-Native Developer
 - 📫 How to reach me #Shravan200060@gmail.com
 
